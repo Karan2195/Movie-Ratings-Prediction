@@ -1,4 +1,4 @@
-#Movie-Ratings-Prediction
+Movie-Ratings-Prediction
 
 Analyzed 1000,000 movie rating of over 3900 movies on Movie Lens dataset. Performed exploratory data analysis and determined features affecting movie rating through one-hot encoding. 
 
